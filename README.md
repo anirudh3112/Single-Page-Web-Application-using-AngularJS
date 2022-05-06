@@ -1,6 +1,7 @@
 # Single-Page-Web-Application-using-AngularJS
 
-Below are my solutions for each module assignments for the course - "Single Page Web Applications with AngularJS" on Coursera platform taught by Prof. Yaakov Chaikin, Whiting School of Engineering and this course on coursera is provided by Johns Hopkins University.
+Below are my solutions for each module assignments for the course - "Single Page Web Applications with AngularJS" on Coursera platform taught by Prof. Yaakov Chaikin, Whiting School of Engineering. 
+This course on coursera is provided by Johns Hopkins University.
 
 
 -- Course Outline --
