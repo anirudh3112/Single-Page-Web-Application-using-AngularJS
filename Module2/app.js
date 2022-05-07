@@ -26,6 +26,7 @@
         alreadyBougthList.items = ShoppingListCheckOffService.getAlreadyBoughtItems();
     }
 
+    
     function ShoppingListCheckOffService() {
         var service = this;
         var toBuyItems = [
